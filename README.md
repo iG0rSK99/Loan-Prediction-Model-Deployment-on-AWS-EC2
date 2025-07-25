@@ -22,19 +22,6 @@ This project demonstrates a **Loan Approval Prediction Machine Learning Model**,
 
 ---
 
-## ☁️ Deployment on AWS EC2
-
-The model is deployed on an AWS EC2 instance. Below are the key steps followed for deployment:
-
-1. Launched an Ubuntu EC2 instance on AWS
-2. SSH into the instance
-3. Installed Python, pip, Git, Flask, and other required packages
-4. Cloned this GitHub repository to the server
-5. Started the Flask app (`python app.py`)
-6. Opened port 5000 in the EC2 security group to allow web access
-
----
-
 ## 🧠 Model Overview
 
 - **Model**: (Mention your model type – e.g., Logistic Regression, Random Forest)
@@ -53,5 +40,6 @@ The model was trained using publicly available loan datasets and serialized usin
 
 ---
 
-## 📂 Check Screenshot folder to check input page, EC2 instance, security group and passkey, model also attacted. 
+## 📂 Check Screenshot folder includes snips of user input page, EC2 instance, security group and passkey.
+Saved model and required files also attached. 
 
