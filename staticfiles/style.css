@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(233, 233, 162);
+    text-align: center;
+}
+
+#g{
+    width: 83px;
+    height: 33px;
+    text-align: center;
+    font-size: small;
+    border-radius: 10px;
+}
+
+#g:hover{
+    background-color: rgb(222, 124, 124);
+}
+
+#abc{
+    width: 120px;
+    height: 33px;
+    text-align: center;
+    font-size: small;
+    border-radius: 10px;
+}
+
+#abc:hover{
+    background-color: rgb(222, 124, 124);
+}
+
+#sub{
+    width: 120px;
+    height: 33px;
+    text-align: center;
+    font-size: small;
+    border-radius: 10px;
+}
